@@ -1,3 +1,4 @@
+alert("js file")
 function display(num){
     var inp=document.querySelector("#btn");
     var val=inp.value;
